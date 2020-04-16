@@ -1,1 +1,3 @@
-# zeppit-docker-wordpress
+# Docker environment for wordpress development
+
+
