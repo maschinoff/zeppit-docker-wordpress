@@ -1,0 +1,1 @@
+docker exec -i docker_db_1 mysql '-uwordpress' '-ppassword' wordpress_database < ../db_data/sql_replace.sql
